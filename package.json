@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://your-username.github.io/your-repository",
+,
 
   "scripts": {
     "dev": "vite",
@@ -11,6 +11,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+    "homepage": "https://devananda11.github.io/confession-website"
   "dependencies": {
     "firebase": "^10.5.2",
     "react": "^18.2.0",
