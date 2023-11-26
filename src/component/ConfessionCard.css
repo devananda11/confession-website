@@ -1,0 +1,22 @@
+.confessions{
+    background-color: hotpink;
+    padding:1rem 2rem;
+    border-radius: 1rem;
+    margin-top: 110px;
+    width:300px;
+    height:200px;
+    
+    cursor:pointer;
+    transition: 0.5s;
+    
+    
+}
+h3{
+    font-size: 1.5rem;
+}
+
+.confessions.confessions:hover{
+    transform: translateY(-20px);
+    box-shadow: 10px 10px 10px rgb(190,190,190);
+}
+
